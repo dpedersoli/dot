@@ -4,6 +4,7 @@
 - CSS
 - SASS
 - Jquery
+- Gulp (juntamente dos pacotes necessários para automatização)
 
 ## Instalação 🛠️
 
@@ -15,6 +16,7 @@ Para iniciar o projeto e visualizá-lo em seu navegador é necessário seguir os
 4. Abrir o terminal no diretório do projeto e instalar as suas dependências com o comando: `npm install`
 5. Instale a extensão "Live Sass Compiler" -> pressione "Shift" da esquerda + "Ctrl" da esquerda + "p" e procure pela opção "Live Sass: Watch Sass"
 6. Instale a extensão "Live Server" -> abra o arquivo HTML no seu VSCode e no rodapé do lado direito clique na opção "Live Server"
+7. Para usar o Gulp (caso faça alguma alteração no arquivo) é só digitar o comando `npm start` no terminal que ele irá fazer a "minização" dos arquivos de tipo '.scss' e '.js' (caso estejam dentro de suas respectivas pastas) automaticamente
 
 ## Mais sobre mim
 

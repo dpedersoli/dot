@@ -1,5 +1,29 @@
 {
+  "scripts": {
+    "start": "npm install && gulp"
+  },
   "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
     "sass": "^1.57.1"
-  }
+  },
+  "name": "dot-project---jquery-e-sass",
+  "description": "- HTML\r - CSS\r - SASS\r - Jquery\r - Gulp (juntamente dos pacotes necessários para automatização)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpedersoli/dot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpedersoli/dot/issues"
+  },
+  "homepage": "https://github.com/dpedersoli/dot#readme"
 }
